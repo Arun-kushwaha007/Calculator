@@ -1,0 +1,32 @@
+.cal-btn{
+    width: 60px;
+    height: 60px;
+}
+.cal-display{
+    background-color: gray;
+    color: white;
+    height: 100px;
+    width: 310px;
+    border-radius: 6px;
+}
+.inputString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+
+}
+.expressionString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+    
+}
+.valueString{
+    margin-top: 5px;
+    height: 20px;
+    display: block;
+    font-size: 20px;
+    
+}
